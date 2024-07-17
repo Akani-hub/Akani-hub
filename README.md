@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akani
-- 👀 I have experience with Python and love working on data-related projects.
+- I have experience with Python and love working on data-related projects.
 - 🌱 I’m currently learning javascript,html and css.
 - 📫 How to reach me akanijafter19@gmail.com.
   
